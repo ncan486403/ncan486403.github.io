@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #587bdd;
+  background: #e793a1;
   color: #222;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -50,7 +50,7 @@ letter-spacing: 0.15em;
 line-height: 1.4;
 }
 h2 {
-color: #5fc8e5; /* bright accent */
+color: #ec5c93; /* bright accent */
 }
 .content p {
 color: #6ffbf7;
@@ -189,3 +189,4 @@ color: #a97eed;
 background: #e94560;
 color: #fff;
 }
+
